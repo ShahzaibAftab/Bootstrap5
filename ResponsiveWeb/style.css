@@ -1,0 +1,48 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.carousel-item img
+{
+width:100%;
+height:93vh;
+}
+.blog
+{
+    margin-top: 100px;
+}
+.blog h1 a
+{
+font-style: italic;
+}
+footer
+{
+    margin-top: 100px;
+}
+.bottom_btn a
+{
+color: white;
+text-decoration: none;
+}
+/* contact.html */
+.background_img
+{
+    background-image: url('images/aboutus-background.jpg');
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+}
+form{
+    margin-top: 50px;
+    width:30%;
+    float:right;
+    margin-right:50px;
+}
+/* form .paragraph
+{
+    
+    height:100px;
+
+} */
